@@ -8,11 +8,11 @@ Un tool autonomo, leggero e ultra-veloce per l'estrazione massiva di attività c
 
 ### 1. Dashboard & Estrazione OSM
 Pannello di controllo pulito per impostare località/città, categorie OSM e massimale di estrazione fino a 1 miliardo di elementi, con elenco dei lavori completati e statistiche sui POI estratti.
-![OSM Dashboard](docs/screenshots/01_osm_dashboard.png)
+![OSM Dashboard](docs/screenshots/01.png)
 
 ### 2. Modale con Mappa Interattiva e Marker Clustering
 Mappa interattiva Leaflet con rendering Canvas e clustering intelligente: apre istantaneamente ricerche con oltre 5.000–10.000 punti senza freeze del browser e con tabella anagrafica ordinata.
-![OSM Mappa e Cluster](docs/screenshots/02_osm_map_cluster.png)
+![OSM Mappa e Cluster](docs/screenshots/02.png)
 
 ---
 
