@@ -1,0 +1,11 @@
+services:
+  osm-scraper-ui:
+    build: .
+    container_name: osm-scraper-ui
+    restart: unless-stopped
+    ports:
+      - "8085:8080"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
